@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "998821398212",
+    "firebase_url": "https://zorovah-82944.firebaseio.com",
+    "project_id": "zorovah-82944",
+    "storage_bucket": "zorovah-82944.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998821398212:android:c4c4f88d3ad5e75c24eb91",
+        "android_client_info": {
+          "package_name": "com.example.zorovah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998821398212-a5idt13l9uqb24ulo73j3aq1qrevp0ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKwhnA2OG0RRGlWAQmyVctYXKxhhSZMJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998821398212-a5idt13l9uqb24ulo73j3aq1qrevp0ej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
